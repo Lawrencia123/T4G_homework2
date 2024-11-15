@@ -7,3 +7,22 @@ h1{
 img{
    
 }
+body{
+    font-size: large;
+    letter-spacing: normal;  
+  }
+    p{
+        font-display: auto;
+        text-indent: 10px;
+        font-style: italic;
+    } 
+    h1{
+        font-style: oblique;
+        text-transform: capitalize;
+        color: rgb(16, 28, 28);
+        background-color: bisque;
+    } 
+    h2{
+        text-transform: capitalize;
+        color: rgb(79, 248, 192);
+    }
